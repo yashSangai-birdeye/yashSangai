@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="28"/> Hello World.</h1>
 
-<p>I'm Yash Sangai, a <b>Senior UI Engineer</b> @ <a href="https://github.com/Unacademy">Unacademy</a> based in Bangalore, India who is very passionate about frontend development based on ReactJS.
+<p>I'm Yash Sangai, a <b>Senior UI Engineer</b> @ <a href="https://github.com/Unacademy">Unacademy</a> based in Bangalore, India who is very passionate about web based frontend development.
 
 <h3>Technology stack</h3>
 <p>
