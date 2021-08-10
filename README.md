@@ -8,6 +8,7 @@
     <img alt="NextJS" src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=next.js&logoColor=white" />
     <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white" />
     <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=black" />
     <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
     <img alt="Storybook" src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=black" />  
     <img alt="MaterialUI" src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
